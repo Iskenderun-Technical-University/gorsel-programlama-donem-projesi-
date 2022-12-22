@@ -1,2 +1,4 @@
-TCDD Bilet Otomasyon Projesi
-Alaaddin ODABAŞI - 212523013
+**TCDD Bilet Otomasyon Projesi
+
+
+_Alaaddin ODABAŞI - 212523013_**
