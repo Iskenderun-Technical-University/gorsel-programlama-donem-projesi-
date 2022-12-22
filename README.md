@@ -1,4 +1,5 @@
-**TCDD Bilet Otomasyon Projesi
+***TCDD Bilet Satış Otomasyon Projesi***
 
-
-_Alaaddin ODABAŞI - 212523013_**
+> Alaaddin Odabaşı - 212523013
+> Erdem Akatay
+> Ömer Şerif Durmuş
